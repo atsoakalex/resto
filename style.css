@@ -146,5 +146,11 @@ p{
 .baseline-name{
     color: goldenrod;
 }
+th{
+    color: goldenrod;
+}
+td{
+    color: white;
+}
 
 
